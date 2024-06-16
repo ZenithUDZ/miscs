@@ -1,0 +1,1 @@
+Go to cars file and select a car tpye in chat "/spawn *car name*"
